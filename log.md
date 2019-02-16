@@ -11,3 +11,22 @@
 Just to make a note, I really enjoy logging my thoughts so these portions will be long. I did want to spend a bit of time working on a personal project of the ToDoApp repo but I want to make sure I get a good nights sleep for my day job and JS class tomorrow so I will be doing some light yoga and heading to bed. However, I will be in class tomorrow and Friday will hopefully be spent studying with friends, if not, head to Bitwise to go to Study Group.
 
 **Link to Work** [udemy course](https://www.udemy.com/modern-javascript-from-the-beginning/) [VS Code](https://code.visualstudio.com/)
+
+### Day 2: February 14, 2019
+
+**Today's Progress**: I went to JS class and we continued on creating the chat. It was cool to see how the project formed and items kept getting added on to make the chat even better and we got to send each other notes through the chat. I learned about Node.JS and over the weekend I'm going to look more into the server and how it works.
+
+**Thoughts**: Super cool to see how the chat improved with only a few more lines of code added. I definitely feel I'm getting to understand certain concepts and the patterns that are created (functions, arrays). I just need to make sure I'm practicing them on my own time.
+
+## Day 3: February 15, 2019
+
+**Today's Progress**: I spent my time researching issues I've been having with git and some of my repo's. I don't feel I made any progress as I spent the majority of the time trying to figure out issues to be able to work on some projects but wasn't able to understand answers.
+
+**Thoughts** I spent the last 30 minutes frustrated because I wanted to rename my portfolio repo to mfw-portfolio and am able to easily do it on Github but cannot seem to change it on my locally. I can't just rename the folder becauase then my terminal won't recognize it and I tried doing it from there but it's not working. I really want to work on creating a new portfolio but it will have such a different design from the one I created on MFW that I think it would be better to keep the work from the old version instead of tearing it down to create the new one. I could always just create a new repo titled "newportfolio" and then change it later when I get help but I really wanted to see if I could change the files locally myself. I am also just really tired so it took longer to research through. Most likely, I'll create the new repo first and rename everything later. It has been awhile since I've made contributions so I really want to get something new started.
+
+## 3 DAY WEEEKEND: MUST DO'S
+1. Work on ToDoApp project. 
+2. Look into JS chat/node.js and server
+3. Studing the cirriculumn
+4. Create new portfolio repo and work on it
+5. Would like to go to Sunday's study group
