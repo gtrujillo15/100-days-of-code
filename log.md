@@ -12,13 +12,13 @@ Just to make a note, I really enjoy logging my thoughts so these portions will b
 
 **Link to Work** [udemy course](https://www.udemy.com/modern-javascript-from-the-beginning/) [VS Code](https://code.visualstudio.com/)
 
-### Day 2: February 14, 2019
+### Day 2: Thursday, February 14, 2019
 
 **Today's Progress**: I went to JS class and we continued on creating the chat. It was cool to see how the project formed and items kept getting added on to make the chat even better and we got to send each other notes through the chat. I learned about Node.JS and over the weekend I'm going to look more into the server and how it works.
 
 **Thoughts**: Super cool to see how the chat improved with only a few more lines of code added. I definitely feel I'm getting to understand certain concepts and the patterns that are created (functions, arrays). I just need to make sure I'm practicing them on my own time.
 
-## Day 3: February 15, 2019
+## Day 3: Friday, February 15, 2019
 
 **Today's Progress**: I spent my time researching issues I've been having with git and some of my repo's. I don't feel I made any progress as I spent the majority of the time trying to figure out issues to be able to work on some projects but wasn't able to understand answers.
 
@@ -27,6 +27,13 @@ Just to make a note, I really enjoy logging my thoughts so these portions will b
 ## 3 DAY WEEEKEND: MUST DO'S
 1. Work on ToDoApp project. 
 2. Look into JS chat/node.js and server
-3. Studing the cirriculumn
+3. Studing on udemy - DONE, SUN
 4. Create new portfolio repo and work on it
-5. Would like to go to Sunday's study group
+5. Would like to go to Sunday's study group - DID NOT GO
+
+## Day 4: Sunday, February 16, 2019
+
+**Today's Progress**: I spent over an hour going through the Udemy class and refreshed on the basics. Arrays, strings, booleans, numbers, Math, splicing arrays, etc. I also created the wireframe for my new portfolio. Am hoping I can create the repo and boilerplate at least before calling it a day. I also need to spend at least 10 minutes on PHP.
+
+**Thoughts** It was nice to go over the basics again and go into detail about all the small things you can do with JS. I know I need to  spend at least 10 minutes each day with PHP too since I have a small contract starting soon to create a WP website. Definitely not as frustrating as Friday so it feels good to feel like I got somewhere today. I took Saturday off to celebrate Valentine's Day with my fiance.
+**Link to Work** [udemy course](https://www.udemy.com/modern-javascript-from-the-beginning/) [github-new portfolio](newportfolio) [PHP](https://www.w3schools.com/php7/php7_variables.asp)
