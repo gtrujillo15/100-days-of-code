@@ -37,3 +37,11 @@ Just to make a note, I really enjoy logging my thoughts so these portions will b
 
 **Thoughts** It was nice to go over the basics again and go into detail about all the small things you can do with JS. I know I need to  spend at least 10 minutes each day with PHP too since I have a small contract starting soon to create a WP website. Definitely not as frustrating as Friday so it feels good to feel like I got somewhere today. I took Saturday off to celebrate Valentine's Day with my fiance.
 **Link to Work** [udemy course](https://www.udemy.com/modern-javascript-from-the-beginning/) [github-new portfolio](newportfolio) [PHP](https://www.w3schools.com/php7/php7_variables.asp)
+
+## Day 5: Monday, February 17, 2019
+
+**Today's Progress**: Nearly completed on the index page for my portfolio (just need to add social media for now) and the About Me page. I worked on the My Work page. Downloaded JS server.
+
+**Thoughts** I loved working on my portfolio today and I spent the majority of the day working on it. I absolutely loved creating it and even the semi-frustrating parts of getting the box outlines (columns, rows) set up was fun because I knew I would get it and I did. I grabbed the colors I wanted, I got my index page to look just like my wireframe as well as my About Me page. I didn't spend much time on anything else because I became too engrossed in my portfolio. I did look a bit into the code we have for the group project in class, made sure I could get server working, and looked over a bit at some JavaScript but I was too excited to get back to my project. I'm too happy with how it's turning out so I already published it. I don't mind doing it now since I won't be formally posting it anywhere until later, but for now just show friends/family. My portfolio is a design that I love. I think I may fidget with the colors a bit, but I love how it is right now.
+
+**Link to Work** [newportfolio](https://gtrujillo15.github.io/newportfolio/)
