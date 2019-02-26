@@ -75,3 +75,19 @@ Just to make a note, I really enjoy logging my thoughts so these portions will b
 **Thoughts** I took Friday off because for some reason, my day job was incredibly hectic and creating my final project in a night was also quite a bit to take on. So after I got out of work on Friday--which was luckily a quiet day--I watched tv, had a beer, and relaxed as a celebration. I came back to working on my projects today and continuied with my new portfolio page. I added my recent projects to the My Work page. I still need to add my Websites for Beginners repo's into there as well but I have to link it to Github first. I also added a scrollbar so I can keep the short page look. Lastly, I added a WuFoo form to my contact page for now. In the future, I'd like to add my own contact form for the practice and to have my own design on it but for now, this works.
 
 **Link to Work** [newportfolio-mywork](https://gtrujillo15.github.io/newportfolio/mywork.html) [newportfolio-contact](https://gtrujillo15.github.io/newportfolio/contact.html)
+
+## Day 9: Sunday, February 24, 2019
+
+**Today's Progress**: I went through the JavaScript Udemy class and did an overview of a variety of things such as if && comparisons, switches, object literals, and date.
+
+**Thoughts** It felt nice to go through the Udemy course and do an refresher of things I had learned earlier in my Geekwise Intro to JavaScript class. I feel as though I'd been spending quite a bit of time working on projects so it was nice to to follow along to a tutorial for a day.
+
+**Link to Work** [udemy course](https://www.udemy.com/modern-javascript-from-the-beginning/)
+
+# Day 10: Monday, February 25, 2019
+
+**Today's Progress**: I went through another hour of the Javascript Udemy class. Learned about functions, loops, and window object. I also read an article that highly recommended a book, The Pragmatic Programmer that I am thinking of purchasing.
+
+**Thoughts** It was nice to do an overview of of what was presented in the Udemy class today because I felt like I hadn't fully grasped the idea of functions but they seemed easier than I thought. I think the only trouble I have is knowing when to use all of the items I've learned and how that shapes into project. Luckily, the Udemy course has a few projects in the course so I'm hoping I can continue learning with that. I also finished Section 2 and Section 3 will go more in to the DOM which has also been something I need more in-depth learning with. I also read an article that recommended The Pragmatic Programmer and am thinking of purchasing it or seeing if I can get a copy from someone. 
+
+**Link to Work**[The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) [udemy course](https://www.udemy.com/modern-javascript-from-the-beginning/)
