@@ -91,3 +91,35 @@ Just to make a note, I really enjoy logging my thoughts so these portions will b
 **Thoughts** It was nice to do an overview of of what was presented in the Udemy class today because I felt like I hadn't fully grasped the idea of functions but they seemed easier than I thought. I think the only trouble I have is knowing when to use all of the items I've learned and how that shapes into project. Luckily, the Udemy course has a few projects in the course so I'm hoping I can continue learning with that. I also finished Section 2 and Section 3 will go more in to the DOM which has also been something I need more in-depth learning with. I also read an article that recommended The Pragmatic Programmer and am thinking of purchasing it or seeing if I can get a copy from someone. 
 
 **Link to Work**[The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) [udemy course](https://www.udemy.com/modern-javascript-from-the-beginning/)
+
+# Day 11: Tuesday, February 26, 2019
+
+**Today's Progress**: Began first day in the JS no-instructor course, was paired with a team, and developed our project idea and wireframe.
+
+**Thoughts** Today was exciting and I'm very happy with the team I have. We accomplished a lot in our first meetup together but it definitely left me very nervous in my ability to complete the project with my current skills. I would say that I may be having my first experience with imposter syndrome; my team-mates have completed this team project before and while I'm excited to work with them and am confident in their skills, I feel like I have none and am so nervous to not let them down. I am afraid I will not get my project to work and my part will be the only one lack luster. But it has pushed me to continue learning.
+
+# Day 12: Wednesday, February 27, 2019
+
+**Today's Progress**: Our team agreed to create a homepage and module as practice for our project. I created one but don't believe I did well. I worked writing out or SOW.
+
+**Thoughts** I think I let the nerves get the best of me the night prior because I spent the entire day very tired and my heartbeat was pounding all day. I tried to create the homepage and module we agreed we would all do for practice but I felt like it was a lot of work to get done in a few hours for me. I tried my best but I think I got too nervous to do my best.
+
+# Day 13: Thursday, February 28, 2019
+
+**Today's Progress**: Met up with my teammates and we went into more detail about our SOW. Assigned the games we were going to be creating (I have the reading/Picture Match game) and have also agreed to pick a color theme and do the vocals for the instructions.
+
+**Thoughts**: Their homepage's were so much better than mine, I felt too embarrassed to show mine. However, I did spend quite a bit of time working on the SOW so at least I was able to share that. One of my teammates created our slack channel and repo and we got our projects started. At the end, we stated what we would be working on for the weekened. We all agreed we would be doing a lot of research for the JS for our games.
+
+# Day 14: Saturday, March 2, 2019
+
+**Today's Progress**: I spent all day going through the JavaScript intro course through Udemy to refresh myself on the basics and learn more about them. I spent my time learning about the DOM, adding, deleting, creating, events. How to use functions. Traversing the dom. Bubbling events. A lot of new things learned.
+
+**Thoughts** I spent nearly all day learning about JS. I learned a lot and the course is helpful. I am looking forward to the project that is included in the course that I will get to tomorrow.
+
+# Day 15: Sunday, March 3, 2019
+
+**Today's Progress**: Began a to do list through the Udemy class, began watching a 3hr video about the logic and fundamentals of JS.
+
+**Thoughts**: I spent a few hours going through the Udemy course with the project that was creating a to do list. I do find it interested, but while I was learning, I felt as though I was just copying the work he was showing and he wasn't really explaining his thinking process or why he decides to do things the way he does. After a couple of videos, I gave up because I was reading the comments and saw a few other people feeling the same way. One person provided some resources of videos he says where people explain the logic process of JS and I began watching one video. I became really interested in one he posted that I had watched. I got through 1hr of it but got busy with laundry, cleaning, cooking, etc. Tomorrow, I will most likely be having my first meeting for my first side gig job if they are available tomorrow. I will spend the rest of the time researching work for my JS no-instructor class. 
+I have to say that after this weekend of instensly studying JS, while I still feel like I have so much to learn, I am excited but so nervous. I do not want to let my team down. But I feel a bit more comfortable with JS than I did last Friday which is an accomplishment for me, for now.
+I also have to say, I hate that I did not write in this log all week even though I had time. I do feel good about having had kept up with practicing code everyday, but I need to remember to log it in here.
