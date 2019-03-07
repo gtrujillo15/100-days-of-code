@@ -131,3 +131,9 @@ I also have to say, I hate that I did not write in this log all week even though
 **Thoughts**: I don't know if I necessarily felt burnt out with spending all weekend on JS but after creating the html/css and writing out my thought process for the JS portion, I felt the need to work on something else. I still feel okay and I feel I retained as much as I could of what I learned over the weekend becauase it was a lot of information but I know I can do it, maybe I just needed a break. I spent some time working on my newportfolio repo and came up with the wireframe for it and began creating it but then through finding some music, came across some interesting videos related to VS Code and developer trends for 2019. I also watched some of the 3hr video of the fundamentals of JS that I haven't finished but it was only like 10 mins that I watched.
 
 **Link to Work**[YouTube - 10 Predictions aobut 2019 for Developers](https://www.youtube.com/watch?v=qV4EzzQFgEg) [YouTube- VS Code Top-Ten Pro Tips](https://www.youtube.com/watch?v=u21W_tfPVrY) [Youtube: Tony Alicea - JavaScript: Understanding the Weird Parts - The First 3.5 Hours](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=4310s)
+
+# Day 17: Tuesday, March 5, 2019
+
+**Today's Progress**: Worked on the Javascript for my page.
+
+**Thoughts** I wasn't able to get the Javascript to work for my page, but I researched and tried different methods. I think I have it, but I need to change something in order to get it to work. So far, I can get the entire background of the page to change, I just need to direct it so that the border of the divs can change. I could try making the divs a button, but I know you can do it to just a div. I'll have to try out that method soon.
