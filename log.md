@@ -137,3 +137,30 @@ I also have to say, I hate that I did not write in this log all week even though
 **Today's Progress**: Worked on the Javascript for my page.
 
 **Thoughts** I wasn't able to get the Javascript to work for my page, but I researched and tried different methods. I think I have it, but I need to change something in order to get it to work. So far, I can get the entire background of the page to change, I just need to direct it so that the border of the divs can change. I could try making the divs a button, but I know you can do it to just a div. I'll have to try out that method soon.
+
+# Day 18: Thursday, March 7, 2019
+
+**Today's Progress**: Worked on JavaScript for my page. WAS ABLE TO GET JS TO WORK.
+
+**Thoughts** We had our Js no-instructor get together today and I let my teammates know that I was having trouble changing the bordrer. One of my teammates found some resources for me that I hadn't yet seen and luckily, found a solution for me. Unfortunately, it looked like it only worked on one border, but not the rest; however, I'm happy that he was willing to help me and it did start pointing me towards a better direction.
+
+# Day 19: Saturday, March 9, 2019
+
+**Today's Progress**: Attended the Women's International Day Conference and learned about machine learning and a class on soddering my own earrings.
+
+**Thoughts** This day was so fun! I still want to count this as a day of coding as I did attend a workshop on Machine Learning that was super interesting but I also believe coding is not always necessarily straight coding; sometimes it's about connecting with others in the field and community. I felt so validated in being a woman brand new to the tech industry and I'm looking forward to my progress and having many women to look up to who have gone to create amazing things.
+
+# Day 20: Sunday, March 10, 2019
+
+**Today's Progress**: Figured it out how to make all borders with changing colors! Next step is to do have it done in pairs but I'm also looking at toggling to have the colors change. We will see.
+
+**Thoughts** I spent a few hours late at night and that seems to be when I am at my best of working on my project, haha. I stayed up until midnight researching and lots of trial and error. I loved doing it and just focusing on one thing and accomplishing it. I was not even tired the next the day (I am writing this Monday night). Hopefully I can spend some time doing the same Monday night again! But fall asleep earlier so I'm not tired for Tuesday's group.
+
+# Day 21: Monday, March 11, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+
+**Link to Work** [youtubevideo: toggle class](https://www.youtube.com/watch?v=degwrcZeGF0) 
