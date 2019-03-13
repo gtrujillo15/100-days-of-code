@@ -158,9 +158,8 @@ I also have to say, I hate that I did not write in this log all week even though
 
 # Day 21: Monday, March 11, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Researched more videos on toggle classes. I believe I need an if statement.
 
-**Thoughts**: 
-
+**Thoughts**: I looked more into the toggle classes and researched some videos, including the one in the link. One of the videos said I need an if statement and I did try but my first try didn't work but I'm sure I can get it in a few more tries. If I can get the toggle to work, then I can add animation features to it and it'll look more presentable.
 
 **Link to Work** [youtubevideo: toggle class](https://www.youtube.com/watch?v=degwrcZeGF0) 
