@@ -163,3 +163,28 @@ I also have to say, I hate that I did not write in this log all week even though
 **Thoughts**: I looked more into the toggle classes and researched some videos, including the one in the link. One of the videos said I need an if statement and I did try but my first try didn't work but I'm sure I can get it in a few more tries. If I can get the toggle to work, then I can add animation features to it and it'll look more presentable.
 
 **Link to Work** [youtubevideo: toggle class](https://www.youtube.com/watch?v=degwrcZeGF0) 
+
+# Day 22: Tuesday, March 12, 2019
+
+**Today's Progress**: Researched on toggle classes. Working on color wheel.
+
+**Thoughts** I worked for a bit on toggle classes and wanted to watch some videos but didn't want to disturb others so I focused on CSS. I also realized halfway into trying to do a toggle class, that I was using the wrong css file. Luckily, I only added one class so I just ended up deleting it and adding it to the correct file. I did find a color wheel that worked for me and there isn't much difference; just the colors are a bit nicer and we have the # type of colors and not just "green". 
+
+# Day 23: Wednesday, March 13, 2019
+
+**Today's Progress**: Researched on if statements. Tried some out. Is not work. Still thinking about what I need!
+
+**Thoughts** We're halfway through and I still feel like I'm going back to step one. I know I'm truly not, because all my work keeps leading me in the right direction, but just when I thought I realized one way might work and it does, I think I should be doing it a different way. I know I can receive help but I'm not sure how direct they can be with me in telling me what may work. Sometimes I just say out loud what I'm trying to do because I think that helps me articulate what I'm looking to do. I spent some time trying to get the addeventlistener to work but it's worth it because I know I'll definitely need to use that for my project, so that is not time lost. I now know how to do an addeventlistener. I also know I will need an if statement and I am working on it but I think I will need the || else for my project too. So if they click on on set of classes || this set of classes, then this.addeventlistener.style.removeclass, && this.addeventlistener.style.addclass (pair1). MAYBE I'LL NEED TO USE A WHILE TO DO PAIRS, I'M NOT SURE. so, while pair1 is active, pair2 will be the same. I think it would be if statement and loop so that it understands that I will have two classes, paired with the other class, and that those will become paired up with a class. I feel like this has taken me forever to get to where I am but I am glad for all the time I've spent because it's gotten me to where I am right now, which is clearer than it was last week or even yesterday. I'm going to be going to the study groups for sure at least once a week from now. Perhaps Sunday, as it seems quieter and less people tend to go. I know I'll go this Friday but we'll see.
+
+# Day 24: Thursday, March 14, 2019
+
+**Today's Progress**: Went over project with Yessenia and figured out my plan.
+
+**Thoughts**: Yessenia came over today to look at how we were doing with our projects. She said they were coming along good and I talked to her about what I've been doing with mine and I spoke to her in detail about what I wanted to do for my game and if I was going in the right direction. She said I definitely was in a good path that I would be using for, else declaration and that that seemed like a good route to go with. She said she could send me additional resources about it and looked happy at that I was figuring it out. It definitely made me feel better and not as anxious. I am looking forward to the weekend to getting a lot of work done.
+
+# Day 25: Monday, March 18, 2019
+
+**Today's Progress**: Light studying on for, else loops and trying them out on my project.
+
+**Thoughts** I HATED this past weekend. I got sick halfway through Friday and had to take a half day, as I began having a fever right before I was about to take my lunch. I spent all Saturday in bed, trying to sleep as much as I could. I couldn't do any light tasks on Sunday without feeling sweaty and exhausted after a few minutes. I had my projet in the back of my mind all weekend but a bigger voice in my head (and my friends) told me to relax and get better so I listened to it. I only feel slightly better so I decided to do some work tonight, despite having a big headache. I did some light studying on classList vs className, for/else statements, and tried some out to see if they'd work but to no avail. I'll definitely want to come to my group meet up tomorrow, hopefully not as sick. I would hate to get them sick.
+
