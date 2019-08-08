@@ -229,3 +229,11 @@ For now, in my current project, pretty much everything is being finished up. We'
 **Today's Progress**: Worked on MadLibs Game repo for 30 minutes, job searched for 30 mins, freecodecamp Javascript basics for 15 minutes
 
 **Thoughts**: I worked on my MadLibs Game repo for about 30 minutes, and I accomplished the next goal I had set for it. My goal was to be able to save the value of the noun to localstorage. I also made a container-fluid just to make everything centered but then I got stuck on that because my header was made on HTML but my other elements were created through JS so I need to see how to make it all centered. I was honestly just surprised and happy at how much I remembered of JS when it came to saving an item to localstorage. It worked on the second try! I also job searched and found 1 job in Clovis that is actually looking for someone who has the skills I have. I mean, they are looking for 2+ years experience and I only have 1 but I think it would still be good to apply just for the resume practice. The company looks very sucessful; they have lots of well-known clients. I haven't applied yet but maybe tomorrow or Wednesday. Then I went onto freecodecamp for a little bit and worked a bit on arrays (how to grab a value of an array, how multi dimensional arrays look)
+
+#Day 32: Wednesday, August 6, 2019
+
+**Today's Progress**: Watched 1hr video about Node.js
+
+**Thoughts**: I decided to watch a long video about Node.js. I'm still not finished with it yet but I'm almost there. I spent a little longer taking notes down and rewatching certain parts where I felt I zoned out a little. It was very interesting though. It was nice to learn that it's pretty much just JavaScript so there's no need to learn a new language. But there are fundamentals and concepts that are new to me. I did learn that node does not have a window or any documents objects. The video also told me about a cool toool called JSHint that can show you errors and what they may be. Tomorrow I want to create my cover letter for the job application. I'm pretty sure I won't get a call back or anything, but it's still exciting to be somewhat qualified for this job. It's with a very cool company so I'm just happy to apply.
+
+**Link to work** [YouTube: Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4&t=2828s)
