@@ -238,8 +238,14 @@ For now, in my current project, pretty much everything is being finished up. We'
 
 **Link to work** [YouTube: Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4&t=2828s)
 
-Day 33: Thursday, August 8, 2019
+#Day 33: Thursday, August 8, 2019
 
 **Today's Progress**: Finished video about Node.jS, watched second video about why to use Node.js
 
 **Thoughts**: I finished the node.js video and it was pretty cool to see that i can access info about my operating system and create a web server. I can definitely see by the documentation on the node.js website that there's a lot to this but i know it's just one step at a time. I then rewatched the beginning because I needed to hear again what Node.js is and how it works and what to use it for. I forgot that node.js is actually not a programming language or a framework. It's a runtime environment for JS code. Then I watched another video where I learned that Node.js is good because it's asynchronous, meaning it can handle various requests at a time. Also that many popular websites use it. And because you use JS, you don't need to learn a new programming language. You can use JS for front end and back end. I didn't end up writing the cover letter because it has been awhile since I've written one, let alone one for a new career field. I wanted to do some more research but as I said, I doubt I'll be asked to interview or be considered seeing that I don't have the required years they're looking for but I just want to apply for the resume/cover letter practice. I'm going to be researching over the weekend. I forgot to add that when I saw the listing on Tuesday, I did see that they had only opened it on Monday so it hasn't even been a week yet so I still have time.
+
+#Day 34: Saturday, August 10, 2019
+
+**Today's Progress**: Completed two sections of FreeCodeCamp, added group projects to portfolio, added a keyframe for design, added social media
+
+**Thoughts**: I completed two sections of FreeCodeCamp. I completed the HTML/CSS part that had to do with accessability and media queries. Then I finally tackled something I've been meaning to do, which is add my group projects to my portfolio. I added the one I did for the first no-instructor and then the one with the women's cohort. Then I also added a keyframe that moved the "hello" up and down slightly however it moves all the other text under it. I tried many different ways and tested by having the text change color instead of movemnet but I'm guessing the items below it move because their position needs to be fixed. I did try that but I'll have to go back and explore that more because I just got tired. I ended up movin to social media because I remembered I had it on there but I needed to update the fontawesome on it. I got it pretty quickly and styled it. I think I spent pretty much from 3pm - 11pm working on stuff (with breaks in between). Now to sleep. Hopefully tomorrow I can work on the madlibs game. I'd also like to try some more stuff on node.js to get more acquainted with it. 
