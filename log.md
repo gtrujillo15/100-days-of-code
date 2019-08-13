@@ -255,3 +255,9 @@ For now, in my current project, pretty much everything is being finished up. We'
 **Today's Progress**: Completed reading the sample for The Pragmmatic Programmer. Completed the tutorials for Responsive Web Design Cerification on FreeCodeCamp (just need to do projects).
 
 **Thoughts**: Finally completed all the tutorial sections for the Responsive Web Design Certification on FreeCodeCamp. I already started the Tribute project that's part of it. They have you do like, 5 projects that are supposed to go over everything that was taught in the tutorials. I also finished the samp;le for The Pragmmatic Prorammer. Tomorrow I'm going to at least complete the tribute page but hopefully I can start on the next project too. Seeing that I'm almost done with the section and can put this on my resume, I kind of want to make sure I finish it.
+
+#Day 36: Monday, August 12, 2019
+
+**Today's Progress**: Completed the Tribute Page for FreeCodeCamp, quick search about JSON.
+
+**Thoughts**: I completed the Tribute page and I dedicated my tribute page to Audrey Hepburn. It was just one of the first that came to my mind. I've been wanting to rewatch Breakfast at Tiffany's. I haven't written any of the biography portion but I'm hoping I can do it sometime later because I actually don't know her life too well and don't want to just copy and paste. Or maybe I can, as long as I reference Wikipedia, I guess. I just didn't want to plagarize but I also didn't want to just lorem all of it. I then started the Survey form project but I just started the boilerplate and did a couple of the requirements really quick. I signed up for Angular with Geekwise so hopefully they have enough people to do it tomorrow or they'll just do it anyway. I also made an interview with Stephanie, the new career counselor. I'm happy she got a job with Bitwise and she's great so I'm excited to hear what advice she can give me or what she thinks. I'm looking forward to tomorrow.
